@@ -1,0 +1,8 @@
+### Get All Fortunes
+Get http://localhost:5000/Fortune/GetAllFortunes
+
+### Get Fortune
+Get http://localhost:5000/Fortune/GetFortune
+
+### Update Fortune
+Patch http://localhost:5000/Fortune/UpdateFortune?key=1&fortune=HAHA
